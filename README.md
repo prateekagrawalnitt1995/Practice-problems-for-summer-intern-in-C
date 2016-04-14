@@ -6,7 +6,6 @@ Programming exercises for summer internship
 Basic Theory :
 -------------
 
-StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**
 
 > **Note:**
 
